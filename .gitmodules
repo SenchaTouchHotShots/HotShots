@@ -1,0 +1,9 @@
+[submodule "TaskMaster"]
+	path = TaskMaster
+	url = git@github.com:SenchaTouchHotShots/TaskMaster.git
+[submodule "FeedBag"]
+	path = FeedBag
+	url = git@github.com:SenchaTouchHotShots/FeedBag.git
+[submodule "TimeCop"]
+	path = TimeCop
+	url = git@github.com:SenchaTouchHotShots/TimeCop.git
